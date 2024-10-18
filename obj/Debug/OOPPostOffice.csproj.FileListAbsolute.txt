@@ -1,0 +1,16 @@
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\bin\Debug\OOPPostOffice.exe.config
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\bin\Debug\OOPPostOffice.exe
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\bin\Debug\OOPPostOffice.pdb
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.csproj.AssemblyReference.cache
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.csproj.SuggestedBindingRedirects.cache
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\MainWindow.g.cs
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\App.g.cs
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice_MarkupCompile.cache
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice_MarkupCompile.lref
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\MainWindow.baml
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.g.resources
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.Properties.Resources.resources
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.csproj.GenerateResource.cache
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.csproj.CoreCompileInputs.cache
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.exe
+C:\Users\matisik-i-a\Desktop\OOPPostOffice\obj\Debug\OOPPostOffice.pdb
